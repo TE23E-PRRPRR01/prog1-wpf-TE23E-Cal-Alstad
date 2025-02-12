@@ -1,0 +1,4 @@
+25-02-12 13:43 Session started
+----------------------------------------
+13:48:31 Document switched to: c:\Users\cal.alstad\github-classroom\prog1-wpf-TE23E-Cal-Alstad\.vscode\.logs\25-02-12-13-43.txt
+----------------------------------------
