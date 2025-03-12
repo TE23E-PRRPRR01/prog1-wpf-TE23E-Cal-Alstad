@@ -1,0 +1,22 @@
+﻿<Window x:Class="SlumpaApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SlumpaApp"
+        mc:Ignorable="d"
+        Title="SlumpaFramTal" 
+        MinHeight="300" MinWidth="200"
+        Background="#EEE">
+   <StackPanel>
+        
+        <Label FontWeight="Bold"> Slumpa fram ett tal</Label>
+        <Label >Ange maxgräns:</Label>
+        <TextBox Name="Maxgräns" Margin="10"></TextBox>
+        <Label >Ange mingräns:</Label>
+        <TextBox Name="Mingräns" Margin="10"></TextBox>
+        <Button Click="SlumpaTal" Margin="10">Slumpa!</Button>
+        <TextBox Name="SlumpTalOP" IsReadOnly="True" Margin="10"></TextBox>
+
+   </StackPanel>
+</Window>

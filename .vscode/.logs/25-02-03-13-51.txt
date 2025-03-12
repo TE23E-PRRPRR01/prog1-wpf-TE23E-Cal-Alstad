@@ -1,0 +1,36 @@
+13:56:36 Document switched to: c:\Users\cal.alstad\AppData\Roaming\Code\User\profiles\-2dcf7ec2\settings.json
+----------------------------------------
+13:59:16 035:004 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+14:02:05 035:004 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+14:03:19 Document switched to: c:\Users\cal.alstad\github-classroom\prog1-wpf-TE23E-Cal-Alstad\.vscode\csharp.code-snippets
+----------------------------------------
+14:04:29 Document switched to: c:\Users\cal.alstad\github-classroom\prog1-wpf-TE23E-Cal-Alstad\.vscode\csharp.code-snippets
+----------------------------------------
+14:06:51 Document switched to: c:\Users\cal.alstad\github-classroom\prog1-wpf-TE23E-Cal-Alstad\App.xaml
+----------------------------------------
+14:06:57 Document switched to: c:\Users\cal.alstad\github-classroom\prog1-wpf-TE23E-Cal-Alstad\.vscode\csharp.code-snippets
+----------------------------------------
+14:06:58 Document switched to: c:\Users\cal.alstad\github-classroom\prog1-wpf-TE23E-Cal-Alstad\global.json
+----------------------------------------
+14:07:06 Document switched to: c:\Users\cal.alstad\github-classroom\prog1-wpf-TE23E-Cal-Alstad\prog1-wpf-TE23E-Cal-Alstad.csproj
+----------------------------------------
+14:08:31 Document switched to: c:\Users\cal.alstad\github-classroom\prog1-wpf-TE23E-Cal-Alstad\.vscode\csharp.code-snippets
+----------------------------------------
