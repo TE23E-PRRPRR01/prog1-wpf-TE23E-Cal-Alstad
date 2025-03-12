@@ -1,0 +1,12 @@
+25-03-12 13:46 Session started
+----------------------------------------
+13:46:58 Document switched to: c:\Users\cal.alstad\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Cal-Alstad\.vscode\.logs\25-03-12-13-46.txt
+----------------------------------------
+13:46:59 Document switched to: c:\Users\cal.alstad\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Cal-Alstad\.vscode\.logs\25-03-03-13-39.txt
+----------------------------------------
+13:47:00 Document switched to: c:\Users\cal.alstad\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Cal-Alstad\.vscode\.logs\25-03-03-13-38.txt
+----------------------------------------
+13:47:01 Document switched to: c:\Users\cal.alstad\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Cal-Alstad\.vscode\.logs\25-02-03-13-48.txt
+----------------------------------------
+13:47:01 Document switched to: c:\Users\cal.alstad\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Cal-Alstad\.vscode\.logs\25-02-03-13-47.txt
+----------------------------------------
